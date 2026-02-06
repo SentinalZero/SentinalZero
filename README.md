@@ -1,16 +1,20 @@
-## Hi there 👋
+👋 Hey, I’m Eric 
 
-<!--
-**SentinalZero/SentinalZero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Solutions Engineer and Customer Success leader who builds demoable systems, customer-facing integrations, and internal tooling that drives adoption and retention.
 
-Here are some ideas to get you started:
+I specialize in:
+- Pre-sales technical discovery & demos
+- Post-sales onboarding & implementations
+- API integrations and troubleshooting
+- Translating complex systems into customer outcomes
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠 Tech I work with:
+Python | Node.js | REST APIs | Docker | SQL | SaaS Integrations
+
+📌 What you’ll find here:
+- A full SaaS-style onboarding & health platform
+- Demo tooling built for sales conversations
+- Integration simulations and webhook handlers
+- Customer success playbooks and incident workflows
+
+📫 Let’s connect: https://www.linkedin.com/in/erichollowayms27/
